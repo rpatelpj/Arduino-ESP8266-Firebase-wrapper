@@ -1,0 +1,10 @@
+[submodule "Arduino/libraries/ArduinoJson"]
+	path = Arduino/libraries/ArduinoJson
+	url = https://github.com/bblanchon/ArduinoJson.git
+	branch = 5.x
+[submodule "Arduino/libraries/firebase-arduino"]
+	path = Arduino/libraries/firebase-arduino
+	url = https://github.com/FirebaseExtended/firebase-arduino.git
+[submodule "Arduino/hardware/esp8266com/esp8266"]
+	path = Arduino/hardware/esp8266com/esp8266
+	url = https://github.com/esp8266/Arduino.git
